@@ -23,6 +23,34 @@
 |                                                                            |                                                                 | [【桌面】游戏CG](https://www.cgwallpapers.com/)                 |
 
 
+# 资源
+
+| **【PPT模板】**                                      | **【其他资源】**                                                |
+|--------------------------------------------------|-----------------------------------------------------------|
+| [免登陆 优品PPT](https://www.ypppt.com/)              | [【免费软件】小白学堂](http://www.itmind.net/)                      |
+| [免登陆 第一PPT](https://www.1ppt.com/)               | [【免费软件】奇迹秀工具箱](https://www.qijishow.com/down/index.html)  |
+| [免登陆 PPT超级市场](https://www.pptsupermarket.com/)   | [【手机软件】彩纭云盘](http://sj.ysupan.com/teyonds#/)              |
+| [PoleBrief](https://www.polebrief.com/index)     | [【书签共享】书签地球](https://www.bookmarkearth.com/)              |
+| [51PPT](https://www.51pptmoban.com/)             | [【综合导航】艾迪鹅神器导航](http://tool.ideart.cc/)                   |
+| [PPT之家](https://www.52ppt.com/)                  | [【综合导航】虫部落](https://search.chongbuluo.com/)               |
+| [锐菩PPT](http://www.rapidbbs.cn/)                 | [【综合导航】旁门左道](https://www.goto-mars.com/people/L1AYO1a87O) |
+| [PPT宝藏](http://www.pptbz.com/)                   | [【综合导航】oduang导航](https://et.oduang.com/)                  |
+| [通格PPT](http://www.tretars.com/)                 | [【阿里资源】奈斯搜索](https://www.niceso.fun/)                     |
+| [PPT资源导航](http://www.hippter.com/)               | [【资源平台】阿虚储物间](https://axutongxue.com/)                    |
+| [OfficePLUS(1O/day)](https://www.officeplus.cn/) | [【手机软件】彩纭云盘](http://sj.ysupan.com/teyonds)                |
+| [扑奔PPT(1/day)](https://www.pooban.com/)          | [【资源平台】阿雷科技](http://aleikeji.com/)                        |
+|                                                  | [【系统镜像】MSDN](https://msdn.itellyou.cn/)                   |
+|                                                  | [【脚本大全】greasyfork](https://greasyfork.org/zh-CN)          |
+|                                                  | [【API资源】ROLL](https://www.mxnzp.com/)                     |
+|                                                  | [【API资源】夏柔免费API](https://api.aa1.cn/)                     |
+|                                                  | [【Al工具资源】Futurepedia](https://www.futurepedia.io/)        |
+|                                                  | [【动漫资源】樱花动漫](http://yhdm93.com/)                          |
+|                                                  | [【设计导航】搜图导航](https://www.91sotu.com/)                     |
+|                                                  | [【图库站点】图库网站](https://www.runningcheese.com/cc0photos)     |
+|                                                  | [【音乐资源】铜钟(Tonzhon)](https://tonzhon.com/)                 |
+|                                                  | [【音乐资源】MyFreeMP3](https://tools.liumingye.cn/music/#/)    |
+
+
 # 工具
 | **工具合集**                                       | **其他工具**                                                                                 | **AI 绘画**                                                                                                                                              |
 |------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
